@@ -1,0 +1,16 @@
+      team                 player  
+ GSW    :16   Anderson Varejao: 1  
+ ATL    : 0   Andre Iguodala  : 1  
+ BOS    : 0   Damian Jones    : 1  
+ BRK    : 0   David West      : 1  
+ CHI    : 0   Draymond Green  : 1  
+ CHO    : 0   Ian Clark       : 1  
+ (Other): 0   (Other)         :10  
+     salary        
+ Min.   :  383351  
+ 1st Qu.: 1132594  
+ Median : 1551659  
+ Mean   : 6265160  
+ 3rd Qu.:11376616  
+ Max.   :26540100  
+                   

@@ -1,17 +1,17 @@
-"team","salary"
-"GSW",26540100
-"GSW",16663575
-"GSW",15330435
-"GSW",12112359
-"GSW",11131368
-"GSW",5782450
-"GSW",2898000
-"GSW",1551659
-"GSW",1551659
-"GSW",1403611
-"GSW",1182840
-"GSW",1171560
-"GSW",1015696
-"GSW",980431
-"GSW",543471
-"GSW",383351
+"team","player","salary"
+"GSW","Kevin Durant",26540100
+"GSW","Klay Thompson",16663575
+"GSW","Draymond Green",15330435
+"GSW","Stephen Curry",12112359
+"GSW","Andre Iguodala",11131368
+"GSW","Shaun Livingston",5782450
+"GSW","Zaza Pachulia",2898000
+"GSW","Anderson Varejao",1551659
+"GSW","David West",1551659
+"GSW","JaVale McGee",1403611
+"GSW","Kevon Looney",1182840
+"GSW","Damian Jones",1171560
+"GSW","Ian Clark",1015696
+"GSW","James Michael McAdoo",980431
+"GSW","Patrick McCaw",543471
+"GSW","Matt Barnes",383351
