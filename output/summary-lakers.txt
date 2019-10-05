@@ -1,0 +1,56 @@
+           player       team    position
+ Alan Anderson:1   LAC    :15   C :3    
+ Austin Rivers:1   ATL    : 0   PF:3    
+ Blake Griffin:1   BOS    : 0   PG:2    
+ Brandon Bass :1   BRK    : 0   SF:4    
+ Brice Johnson:1   CHI    : 0   SG:3    
+ Chris Paul   :1   CHO    : 0           
+ (Other)      :9   (Other): 0           
+     height         weight           age       
+ Min.   :72.0   Min.   :175.0   Min.   :19.00  
+ 1st Qu.:76.5   1st Qu.:202.5   1st Qu.:27.50  
+ Median :79.0   Median :230.0   Median :30.00  
+ Mean   :78.8   Mean   :225.1   Mean   :29.53  
+ 3rd Qu.:82.0   3rd Qu.:250.5   3rd Qu.:32.00  
+ Max.   :83.0   Max.   :265.0   Max.   :39.00  
+                                               
+   experience    
+ Min.   : 0.000  
+ 1st Qu.: 6.000  
+ Median : 8.000  
+ Mean   : 8.267  
+ 3rd Qu.:11.000  
+ Max.   :18.000  
+                 
+                                       college 
+ Duke University                           :2  
+ University of North Carolina              :2  
+ Iowa State University, Syracuse University:1  
+ Louisiana State University                :1  
+ Michigan State University                 :1  
+ Texas A&M University                      :1  
+ (Other)                                   :7  
+     salary             games     
+ Min.   :  543471   Min.   : 3.0  
+ 1st Qu.: 1477635   1st Qu.:41.0  
+ Median : 3500000   Median :68.0  
+ Mean   : 7651775   Mean   :57.6  
+ 3rd Qu.:12126506   3rd Qu.:80.0  
+ Max.   :22868827   Max.   :82.0  
+                                  
+    minutes           points      
+ Min.   :   9.0   Min.   :   4.0  
+ 1st Qu.: 442.5   1st Qu.: 136.0  
+ Median :1700.0   Median : 538.0  
+ Mean   :1316.9   Mean   : 594.1  
+ 3rd Qu.:2065.0   3rd Qu.:1018.5  
+ Max.   :2570.0   Max.   :1316.0  
+                                  
+    points3          points2         points1     
+ Min.   :  0.00   Min.   :  2.0   Min.   :  0.0  
+ 1st Qu.:  7.50   1st Qu.: 30.0   1st Qu.: 11.5  
+ Median : 38.00   Median :148.0   Median : 77.0  
+ Mean   : 56.07   Mean   :160.1   Mean   :105.7  
+ 3rd Qu.:107.00   3rd Qu.:227.5   3rd Qu.:177.0  
+ Max.   :201.00   Max.   :441.0   Max.   :320.0  
+                                                 
