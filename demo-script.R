@@ -13,7 +13,23 @@ getwd()
 setwd("/Users/Lerberber/Desktop/gitdemo/data")
 
 dat<-  read.csv(file="nba2018-players.csv", header=TRUE, sep=",")
-dat1<-select(dat, team, salary)
+dat1<-select(dat, team, player, salary)
 warriors<- arrange(filter(dat1, team=="GSW"), desc(salary))
 write.csv(warriors, file="warriors.csv", row.names = FALSE)
+dat2<-filter(dat, team=="LAC")
+
+getwd()
+setwd("/Users/Lerberber/Desktop/gitdemo/output")
+
+
+sink(file= "data-structure.txt")
+str(dat)
+sink()
+
+sink(file="summary-warriors.txt")
+summary(warriors)
+sink()
+
+sink(file= "summary-lakers.txt")
+
 
